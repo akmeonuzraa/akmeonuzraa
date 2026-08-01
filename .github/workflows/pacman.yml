@@ -2,8 +2,8 @@ name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # tous les jours à minuit UTC
-  workflow_dispatch:        # permet de le lancer manuellement
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Generate Pacman contribution graph
-        uses: jkdevcode/github-pacman@output
+        uses: jkdevcode/github-pacman@main
         with:
           github_user_name: akmeonuzraa
           github_user_token: ${{ secrets.GITHUB_TOKEN }}
