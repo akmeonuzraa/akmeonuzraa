@@ -105,6 +105,16 @@
 
 <div align="center">
 
+
+## 👾 Contribution Graph
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
+</picture>
+
+
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenza-amoura-9b334a1b9/)
