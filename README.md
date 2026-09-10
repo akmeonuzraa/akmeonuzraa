@@ -68,7 +68,7 @@
 
 | Project | What it does | Stars |
 | --- | --- | --- |
-| [`get-2m`](https://github.com/akmeonuzraa/get-2m) | Laravel backend platform — middleware architecture, GED (document management) module, authentication and testing. Lead backend dev. | ![](https://img.shields.io/github/stars/akmeonuzraa/get-2m?style=flat-square&logo=github&label=&color=E0218A) |
+| [`get-2m`](https://github.com/akmeonuzraa/ged-2m-soread) | Laravel backend platform — middleware architecture, GED (document management) module, authentication and testing. Lead backend dev. | ![](https://img.shields.io/github/stars/akmeonuzraa/ged-2m-soread?style=flat-square&logo=github&label=&color=E0218A) |
 | [`elaraMed`](https://github.com/akmeonuzraa/elaraMed) | End-to-end ML pipeline for a doctor-patient AI application, from medical data collection to model integration. | ![](https://img.shields.io/github/stars/akmeonuzraa/elaraMed?style=flat-square&logo=github&label=&color=E0218A) |
 | [`3D-Tree`](https://github.com/akmeonuzraa/3D-Tree) | Interactive 3D visualization exploring the hierarchy and cross-pollination of CS and Cultural domains. Three.js + React. | ![](https://img.shields.io/github/stars/akmeonuzraa/3D-Tree?style=flat-square&logo=github&label=&color=E0218A) |
 | [`Habit-Tracker`](https://github.com/akmeonuzraa/Habit-Tracker) | A habit-tracking app built with TypeScript. | ![](https://img.shields.io/github/stars/akmeonuzraa/Habit-Tracker?style=flat-square&logo=github&label=&color=E0218A) |
@@ -107,12 +107,12 @@
 
 
 ## 👾 Contribution Graph
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
-</picture>
+//<br>
+//<picture>
+//  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph-dark.svg" />
+//  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
+//  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
+//</picture>
 
 
 ### 🌐 Connect
