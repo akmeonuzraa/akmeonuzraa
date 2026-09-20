@@ -93,11 +93,11 @@
 
 <br/><br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=akmeonuzraa&hide_border=true&background=0d1117&ring=E0218A&fire=E0218A&currStreakLabel=E0218A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=akmeonuzraa&hide_border=true&background=ffffff&ring=E0218A&fire=E0218A&currStreakLabel=E0218A&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
   <img src="https://streak-stats.demolab.com?user=akmeonuzraa&hide_border=true&background=0d1117&ring=E0218A&fire=E0218A&currStreakLabel=E0218A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
-</picture>
+</picture> -->
 
 </div>
 
@@ -107,12 +107,12 @@
 
 
 ## 👾 Contribution Graph
-<!-- <br>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/akmeonuzraa/akmeonuzraa/output/pacman-contribution-graph.svg" />
-</picture> -->
+</picture>
 
 
 ### 🌐 Connect
